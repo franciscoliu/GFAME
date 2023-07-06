@@ -1,7 +1,7 @@
 # GFAME
 Accepted paper for International World Wide Web Conference (WWW) 2023
 
-Paper link here: https://zheyuanliu.netlify.app/publication/publication4/publication4.pdf
+Paper link here: https://dl.acm.org/doi/abs/10.1145/3543507.3583207
 
 Detailed instructions for this repository is coming soon
 
